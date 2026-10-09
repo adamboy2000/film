@@ -18,7 +18,21 @@
         "jpg": null,
         "png": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Render.png",
         "jpgBytes": 0,
-        "pngBytes": 13695569
+        "pngBytes": 13695569,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_01-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_01-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_01-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -41,7 +55,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_Lab372131.jpg",
         "png": null,
         "jpgBytes": 12633750,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_02-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_02-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_02-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -64,7 +92,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1100957.jpg",
         "png": null,
         "jpgBytes": 15754218,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_03-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_03-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_03-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -87,7 +129,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1110776.jpg",
         "png": null,
         "jpgBytes": 17753235,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_04-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_04-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_04-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -110,7 +166,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080866.jpg",
         "png": null,
         "jpgBytes": 16784366,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_05-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_05-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_05-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -133,7 +203,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080886.jpg",
         "png": null,
         "jpgBytes": 39790547,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_06-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_06-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_06-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -156,7 +240,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Full_L37.jpg",
         "png": null,
         "jpgBytes": 2101915,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_07-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_07-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_07-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -179,7 +277,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Crop_L37.jpg",
         "png": null,
         "jpgBytes": 2158816,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_08-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_08-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_08-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -202,7 +314,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Bowler.jpg",
         "png": null,
         "jpgBytes": 1085499,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_09-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_09-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_09-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -225,7 +351,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lidder.jpg",
         "png": null,
         "jpgBytes": 691810,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_10-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_10-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_10-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -248,7 +388,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Axo.jpg",
         "png": null,
         "jpgBytes": 1069373,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_11-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_11-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_11-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -271,7 +425,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Front.jpg",
         "png": null,
         "jpgBytes": 1909118,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_12-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_12-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_12-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -294,7 +462,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Side.jpg",
         "png": null,
         "jpgBytes": 2138123,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_13-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_13-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_13-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -317,7 +499,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Hopper_Heat.jpg",
         "png": null,
         "jpgBytes": 781670,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_14-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_14-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_14-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -340,7 +536,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Hopper_Lid.jpg",
         "png": null,
         "jpgBytes": 1023116,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_15-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_15-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_15-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -363,7 +573,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080906.jpg",
         "png": null,
         "jpgBytes": 17069566,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_16-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_16-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_16-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -386,7 +610,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080966.jpg",
         "png": null,
         "jpgBytes": 26840691,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_17-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_17-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_17-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -409,7 +647,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120322.jpg",
         "png": null,
         "jpgBytes": 17196272,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_18-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_18-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_18-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -432,7 +684,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120347.jpg",
         "png": null,
         "jpgBytes": 22727232,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_19-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_19-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_19-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -455,7 +721,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120349.jpg",
         "png": null,
         "jpgBytes": 14761984,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_20-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_20-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_20-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -478,7 +758,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120358.jpg",
         "png": null,
         "jpgBytes": 16432689,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_21-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_21-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_21-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -501,7 +795,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120364.jpg",
         "png": null,
         "jpgBytes": 17488532,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_22-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_22-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_22-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -524,7 +832,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120368.jpg",
         "png": null,
         "jpgBytes": 11042552,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_23-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_23-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_23-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -547,7 +869,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120436.jpg",
         "png": null,
         "jpgBytes": 8678604,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_24-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_24-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_24-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   },
@@ -570,7 +906,21 @@
         "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120518.jpg",
         "png": null,
         "jpgBytes": 15768836,
-        "pngBytes": 0
+        "pngBytes": 0,
+        "thumbnails": [
+          {
+            "src": "/previews/lab37/LAB37_25-320w.webp",
+            "width": 320
+          },
+          {
+            "src": "/previews/lab37/LAB37_25-640w.webp",
+            "width": 640
+          },
+          {
+            "src": "/previews/lab37/LAB37_25-960w.webp",
+            "width": 960
+          }
+        ]
       }
     ]
   }

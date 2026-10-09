@@ -47,3 +47,5 @@ npm run assets:add -- --brand lab37 --source /absolute/path/to/images --category
 JPEG/PNG originals retain their exact bytes. WebP previews preserve display orientation and are never enlarged. The importer skips duplicates and updates `src/additional-assets.json`. Supported brands: pronto, picnic, atoms, namma, kitchenpark and lab37. Existing release ZIPs are the original source collections; imports add individual original downloads. Each static original must fit the company platform's 25 MiB asset limit.
 
 The company-hosted Film app is the primary site. Brand artwork sources are documented in [BRAND_ASSETS.md](docs/BRAND_ASSETS.md).
+
+Gallery and brand-card images use responsive 320/640/960px WebP thumbnails; viewer previews and native download/clipboard sources stay separate. `assets:add` generates these automatically. After rebuilding the bundled Pronto or Lab37 catalogs, run `npm run assets:thumbnails` with the native source folders available to regenerate their thumbnail metadata.

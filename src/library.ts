@@ -4,7 +4,7 @@ import additional from './additional-assets.json'
 export type BrandId = 'pronto' | 'picnic' | 'atoms' | 'namma' | 'kitchenpark' | 'lab37'
 export type Format = 'Landscape' | 'Portrait' | 'Square'
 export type Variant = {
-  orientation: Format | 'Original'; ratio: string; width: number; height: number; preview: string
+  orientation: Format | 'Original'; ratio: string; width: number; height: number; preview: string; thumbnails?: {src: string; width: number}[]
   jpg?: string | null; png?: string | null; jpgBytes: number; pngBytes: number
 }
 export type Shot = {
@@ -24,3 +24,5 @@ export const brands: {id: BrandId; name: string; title: string; description: str
 ]
 export const variant = (shot: Shot, format: Format): Variant => shot.variants.find(v => v.orientation === format) || shot.variants[0]
 export const copyAsset = (shot: Shot, format: Format) => decodeURIComponent((variant(shot, format).png || variant(shot, format).jpg || '').split('/').pop() || '')
+
+export const thumbnailProps = (v: Variant) => ({src: v.thumbnails?.find(t=>t.width>=640)?.src || v.thumbnails?.[0]?.src || v.preview, srcSet: v.thumbnails?.map(t=>`${t.src} ${t.width}w`).join(", ")})
