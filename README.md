@@ -49,3 +49,5 @@ JPEG/PNG originals retain their exact bytes. WebP previews preserve display orie
 The company-hosted Film app is the primary site. Brand artwork sources are documented in [BRAND_ASSETS.md](docs/BRAND_ASSETS.md).
 
 Gallery and brand-card images use responsive 320/640/960px WebP thumbnails; viewer previews and native download/clipboard sources stay separate. `assets:add` generates these automatically. After rebuilding the bundled Pronto or Lab37 catalogs, run `npm run assets:thumbnails` with the native source folders available to regenerate their thumbnail metadata.
+
+Use Select images in a brand gallery to choose images across filters, then Download selected. The review dialog offers file format, framing, and original/2,048px/1,280px resolution; smaller originals are never enlarged. Lab37 framing changes use a centered crop. Prepare the ZIP, then download it with the displayed file size. Closing the dialog or cancelling preparation aborts outstanding image requests.
