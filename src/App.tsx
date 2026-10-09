@@ -36,7 +36,7 @@ export default function App(){
  const [favorites,setFavorites]=useState<number[]>(()=>{const v=readStorage<unknown>('film-selects',[]);return Array.isArray(v)?v.filter(n=>typeof n==='number'&&catalog.some(s=>s.id===n)):[]})
  const [theme,setTheme]=useState<'light'|'dark'>(()=>readStorage<string>('film-theme-preference','dark')==='light'?'light':'dark')
  const [active,setActive]=useState<number|null>(initialShot?.id||null)
- const [modal,setModal]=useState<'download'|'about'|null>(null),[menu,setMenu]=useState(false),[toast,setToast]=useState(''),[toastError,setToastError]=useState(false),[searchExpanded,setSearchExpanded]=useState(false),[scrolled,setScrolled]=useState(false),[copying,setCopying]=useState<number|null>(null)
+ const [modal,setModal]=useState<'download'|'about'|null>(null),[menu,setMenu]=useState(false),[toast,setToast]=useState(''),[toastError,setToastError]=useState(false),[searchExpanded,setSearchExpanded]=useState(false),[scrolled,setScrolled]=useState(false),[copying,setCopying]=useState<number|null>(null),[copyingSource,setCopyingSource]=useState<string|null>(null)
  const menuRef=useRef<HTMLDivElement>(null),searchRef=useRef<HTMLInputElement>(null),searchWrap=useRef<HTMLDivElement>(null),headingRef=useRef<HTMLHeadingElement>(null),lastCard=useRef<number|null>(null)
  const brandInfo=brands.find(b=>b.id===brand)
  const shot=catalog.find(s=>s.id===active)
@@ -44,7 +44,7 @@ export default function App(){
  const overview=view==='library'&&!brand&&!shot
  const pool=useMemo(()=>catalog.filter(s=>view==='selects'?favorites.includes(s.id):s.brand===brand),[view,favorites,brand])
  const categories=useMemo(()=>view==='selects'?['All brands',...brands.filter(b=>pool.some(s=>s.brand===b.id)).map(b=>b.name)]:['All shots',...new Set(pool.map(s=>s.category))],[pool,view])
- const filtered=useMemo(()=>{const q=query.trim().toLowerCase();return pool.filter(s=>(category==='All shots'||category==='All brands'||(view==='selects'?brands.find(b=>b.id===s.brand)?.name===category:s.category===category))&&(!q||`${s.title} ${s.category} ${s.use}`.toLowerCase().includes(q))).sort((a,b)=>sort==='source'?(a.seconds||0)-(b.seconds||0):sort==='title'?a.title.localeCompare(b.title):a.id-b.id)},[pool,category,query,sort,view])
+ const filtered=useMemo(()=>{const normalize=(text:string)=>text.normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ');const terms=normalize(query).trim().split(/\s+/).filter(Boolean);return pool.filter(s=>{const filenames=[s.originalName,s.master,...s.variants.flatMap(v=>[v.jpg,v.png])].filter((value):value is string=>!!value).map(value=>decodeURIComponent(value.split('/').pop()||value)).join(' ');const keywords=normalize(`${s.title} ${s.category} ${s.use} ${brands.find(b=>b.id===s.brand)?.name||s.brand} ${filenames}`);return (category==='All shots'||category==='All brands'||(view==='selects'?brands.find(b=>b.id===s.brand)?.name===category:s.category===category))&&terms.every(term=>keywords.includes(term))}).sort((a,b)=>sort==='source'?(a.seconds||0)-(b.seconds||0):sort==='title'?a.title.localeCompare(b.title):a.id-b.id)},[pool,category,query,sort,view])
  useEffect(()=>{document.documentElement.dataset.theme=theme;document.documentElement.classList.toggle('dark',theme==='dark');document.querySelector('meta[name=theme-color]')?.setAttribute('content',theme==='dark'?'#000000':'#ffffff')},[theme])
  useEffect(()=>{try{localStorage.setItem('film-selects',JSON.stringify(favorites))}catch{}},[favorites])
  useEffect(()=>{document.title=shot?`${shot.title} / Film Dept.`:brandInfo?`${brandInfo.name} / Film Dept.`:view==='selects'?'My selects / Film Dept.':'Media / Film Dept.'},[shot,brandInfo,view])
@@ -67,11 +67,14 @@ export default function App(){
  const goBrand=(b:BrandId|null)=>{setActive(null);setBrand(b);setView('library');setCategory('All shots');setQuery('');setSort('curated');setMenu(false);syncURL(b,'library');window.scrollTo({top:0});focusHeading()}
  const goSelects=()=>{setActive(null);setView('selects');setBrand(null);setCategory('All brands');setQuery('');setMenu(false);syncURL(null,'selects');window.scrollTo({top:0});focusHeading()}
  const chooseTheme=(value:'light'|'dark')=>{setTheme(value);try{localStorage.setItem('film-theme-preference',JSON.stringify(value))}catch{}}
- const copyImage=(s:Shot)=>{
+ const copyImage=(s:Shot,sourceUrl?:string)=>{
   if(copying!==null)return
+  notify('')
   setCopying(s.id)
+  const source=sourceUrl||variant(s,format).png||variant(s,format).jpg||undefined
+  setCopyingSource(source||null)
   // The clipboard call happens synchronously inside the user's click gesture.
-  copyOriginalImage(copyAsset(s,format),variant(s,format).png||variant(s,format).jpg||undefined).then(()=>notify('Image copied. Paste into Figma.')).catch(e=>notify(e instanceof Error?e.message:'The image could not be copied. Try again.',true)).finally(()=>setCopying(null))
+  copyOriginalImage(sourceUrl?decodeURIComponent(sourceUrl.split('/').pop()||''):copyAsset(s,format),source).then(()=>notify('Image copied. Paste into Figma.')).catch(e=>notify(e instanceof Error?e.message:'The image could not be copied. Try again.',true)).finally(()=>{setCopying(null);setCopyingSource(null)})
  }
  const collectionBrand=shot?.brand||brand
  const canDownload=collectionBrand==='pronto'||collectionBrand==='lab37'
@@ -87,7 +90,7 @@ export default function App(){
    <div className="viewer-topline"><div className="viewer-back-group"><BackButton label={`Back to ${view==='selects'?'My selects':shotBrand?.name||'collection'}`} onClick={closeShot}/><h1 ref={headingRef} tabIndex={-1}>{shot.title}</h1></div><div className="viewer-navigation"><span>{String((catalog.filter(s=>s.brand===shot.brand).findIndex(s=>s.id===shot.id))+1).padStart(2,'0')} / {catalog.filter(s=>s.brand===shot.brand).length}</span><IconButton label="Previous shot" onClick={()=>navigate(-1)}><ChevronLeft size={19}/></IconButton><IconButton label="Next shot" onClick={()=>navigate(1)}><ChevronRight size={19}/></IconButton></div></div>
    <div className="viewer-layout"><div className="viewer-stage"><img key={`${shot.id}-${currentVariant.orientation}`} src={currentVariant.preview} alt={shot.title} width={currentVariant.width} height={currentVariant.height}/></div><aside className="shot-panel"><div className="shot-title-row"><div className="shot-eyebrow">{shotBrand?.name} / {shot.brand==='pronto'?'Copper Mine':'Media kit'}</div><IconButton label={favorites.includes(shot.id)?'Remove from My selects':'Add to My selects'} pressed={favorites.includes(shot.id)} onClick={()=>toggleSave(shot.id)}><SaveIcon saved={favorites.includes(shot.id)}/></IconButton></div><p>{shot.use}</p><div className="shot-tags"><span>{shot.category}</span></div>
     <div className="panel-section"><h2>{shot.variants.length>1?'Framing':'Original image'}</h2>{shot.variants.length>1&&<AspectSwitch value={format} onChange={changeFormat} compact/>}<div className="dimensions">{currentVariant.width.toLocaleString()} × {currentVariant.height.toLocaleString()} px<span>Original resolution</span></div></div>
-    <div className="panel-section download-options"><Button color="primary" size="xl" block disabled={copying!==null} onClick={()=>copyImage(shot)}><Figma size={17}/>{copying===shot.id?'Copying image…':'Copy for Figma'}</Button>{currentVariant.jpg&&<ButtonLink color="secondary" variant="soft" size="xl" block href={currentVariant.jpg}><Download size={17}/>JPG {bytes(currentVariant.jpgBytes)}</ButtonLink>}{currentVariant.png&&<ButtonLink color="secondary" variant="soft" size="xl" block href={currentVariant.png}><Download size={17}/>PNG {bytes(currentVariant.pngBytes)}</ButtonLink>}{shot.master&&<a className="master-link" href={shot.master}>Uncropped 4K master<ArrowUpRight size={15}/></a>}</div>
+    <div className="panel-section download-options">{[{label:'JPG',url:currentVariant.jpg,size:currentVariant.jpgBytes},{label:'PNG',url:currentVariant.png,size:currentVariant.pngBytes},{label:'4K master',url:shot.master,size:shot.masterBytes}].map(file=>file.url&&<div className="file-action-row" key={file.url}><ButtonLink color="secondary" variant="soft" size="xl" block href={file.url}><Download size={17}/>{file.label}{file.size?` ${bytes(file.size)}`:''}</ButtonLink><IconButton className="copy-file" label={copyingSource===file.url?'Copying image…':`Copy ${file.label} image for Figma`} disabled={copying!==null} onClick={()=>copyImage(shot,file.url||undefined)}><Figma size={17}/></IconButton></div>)}</div>
     {shot.originalName?.includes('JoshCherner')&&<p className="photo-credit">Photography: Josh Cherner</p>}
    </aside></div>
   </main>:overview?<main id="main-content" tabIndex={-1} className="library-page brands-page">

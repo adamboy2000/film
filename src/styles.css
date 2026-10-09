@@ -76,3 +76,6 @@ html{scroll-padding-top:calc(var(--header-height) + 76px)}
 
 .viewer-navigation{flex-shrink:0}.viewer-back-group>.collection-back{flex-shrink:0}.shot-title-row{align-items:center}.shot-title-row .shot-eyebrow{margin:0}.shot-title-row .icon-button{margin:0}
 @media(max-width:720px){.viewer-topline{flex-wrap:wrap;gap:14px}.viewer-back-group{width:100%}.viewer-navigation{margin-left:auto}}
+
+/* Keep each native file download paired with its own Figma copy action. */
+.file-action-row{display:flex;align-items:center;gap:8px}.file-action-row+.file-action-row{margin-top:8px}.file-action-row>a{flex:1;min-width:0;font-size:12px;font-weight:500}.file-action-row>.copy-file{width:40px;height:40px;flex-shrink:0;background:var(--stage);color:var(--ink)}
