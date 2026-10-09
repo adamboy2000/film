@@ -1,0 +1,28 @@
+{
+  "repo": "adamboy2000/film",
+  "release": "pronto-copper-mine-v1",
+  "github": "https://github.com/adamboy2000/film",
+  "releaseUrl": "https://github.com/adamboy2000/film/releases/tag/pronto-copper-mine-v1",
+  "archive": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/Pronto_Designer_Stills_40.zip",
+  "archiveBytes": 1172976347,
+  "bundles": [
+    {
+      "orientation": "Landscape",
+      "url": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/Pronto_40_Landscape_JPG.zip",
+      "bytes": 129363028,
+      "count": 40
+    },
+    {
+      "orientation": "Portrait",
+      "url": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/Pronto_40_Portrait_JPG.zip",
+      "bytes": 60254536,
+      "count": 40
+    },
+    {
+      "orientation": "Square",
+      "url": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/Pronto_40_Square_JPG.zip",
+      "bytes": 75070339,
+      "count": 40
+    }
+  ]
+}

@@ -1,0 +1,1842 @@
+[
+  {
+    "id": 1,
+    "title": "Monumental truck",
+    "seconds": 8.717042,
+    "frame": 209,
+    "use": "Hero / flagship product; sky available above truck.",
+    "category": "Machines",
+    "firstPick": true,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_01_monumental-truck_FULL_4096x2160.png",
+    "masterBytes": 7591072,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_01_monumental-truck_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_01_monumental-truck_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_01_monumental-truck_landscape_3840x2160.png",
+        "jpgBytes": 3239323,
+        "pngBytes": 7169597
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_01_monumental-truck_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_01_monumental-truck_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_01_monumental-truck_portrait_1728x2160.png",
+        "jpgBytes": 1757554,
+        "pngBytes": 3715188
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_01_monumental-truck_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_01_monumental-truck_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_01_monumental-truck_square_2160x2160.png",
+        "jpgBytes": 2022728,
+        "pngBytes": 4431116
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Haul truck in motion",
+    "seconds": 17.183833,
+    "frame": 412,
+    "use": "Product in operation; dynamic side profile.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_02_haul-truck-in-motion_FULL_4096x2160.png",
+    "masterBytes": 7623145,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_02_haul-truck-in-motion_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_02_haul-truck-in-motion_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_02_haul-truck-in-motion_landscape_3840x2160.png",
+        "jpgBytes": 3083017,
+        "pngBytes": 7228081
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_02_haul-truck-in-motion_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_02_haul-truck-in-motion_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_02_haul-truck-in-motion_portrait_1728x2160.png",
+        "jpgBytes": 1520706,
+        "pngBytes": 3501337
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_02_haul-truck-in-motion_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_02_haul-truck-in-motion_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_02_haul-truck-in-motion_square_2160x2160.png",
+        "jpgBytes": 1876619,
+        "pngBytes": 4334508
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Room to move",
+    "seconds": 19.310958,
+    "frame": 463,
+    "use": "Split hero; place copy on the open left side.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_03_room-to-move_FULL_4096x2160.png",
+    "masterBytes": 6666514,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_03_room-to-move_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_03_room-to-move_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_03_room-to-move_landscape_3840x2160.png",
+        "jpgBytes": 2791729,
+        "pngBytes": 6234998
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_03_room-to-move_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_03_room-to-move_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_03_room-to-move_portrait_1728x2160.png",
+        "jpgBytes": 1250434,
+        "pngBytes": 2715928
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_03_room-to-move_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_03_room-to-move_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_03_room-to-move_square_2160x2160.png",
+        "jpgBytes": 1578134,
+        "pngBytes": 3455009
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Copper strata",
+    "seconds": 37.28725,
+    "frame": 894,
+    "use": "Mining industry story; rock strata and dust trail.",
+    "category": "Environment",
+    "firstPick": true,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_04_copper-strata_FULL_4096x2160.png",
+    "masterBytes": 12195542,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_04_copper-strata_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_04_copper-strata_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_04_copper-strata_landscape_3840x2160.png",
+        "jpgBytes": 5102384,
+        "pngBytes": 11413001
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_04_copper-strata_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_04_copper-strata_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_04_copper-strata_portrait_1728x2160.png",
+        "jpgBytes": 2329407,
+        "pngBytes": 5159615
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_04_copper-strata_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_04_copper-strata_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_04_copper-strata_square_2160x2160.png",
+        "jpgBytes": 2899126,
+        "pngBytes": 6445335
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Scale of the mine",
+    "seconds": 47.005292,
+    "frame": 1127,
+    "use": "Full-width environment; shows operating scale.",
+    "category": "Environment",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_05_scale-of-the-mine_FULL_4096x2160.png",
+    "masterBytes": 9993880,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_05_scale-of-the-mine_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_05_scale-of-the-mine_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_05_scale-of-the-mine_landscape_3840x2160.png",
+        "jpgBytes": 3968827,
+        "pngBytes": 9352841
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_05_scale-of-the-mine_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_05_scale-of-the-mine_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_05_scale-of-the-mine_portrait_1728x2160.png",
+        "jpgBytes": 1823599,
+        "pngBytes": 4218669
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_05_scale-of-the-mine_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_05_scale-of-the-mine_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_05_scale-of-the-mine_square_2160x2160.png",
+        "jpgBytes": 2233097,
+        "pngBytes": 5270565
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The haul route",
+    "seconds": 52.093708,
+    "frame": 1249,
+    "use": "Route and autonomy story; road leads through frame.",
+    "category": "Environment",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_06_the-haul-route_FULL_4096x2160.png",
+    "masterBytes": 9504071,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_06_the-haul-route_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_06_the-haul-route_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_06_the-haul-route_landscape_3840x2160.png",
+        "jpgBytes": 3771332,
+        "pngBytes": 8928921
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_06_the-haul-route_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_06_the-haul-route_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_06_the-haul-route_portrait_1728x2160.png",
+        "jpgBytes": 1760288,
+        "pngBytes": 4131037
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_06_the-haul-route_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_06_the-haul-route_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_06_the-haul-route_square_2160x2160.png",
+        "jpgBytes": 2178773,
+        "pngBytes": 5121954
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pronto in the field",
+    "seconds": 22.397375,
+    "frame": 537,
+    "use": "Hardware / brand detail; visible Pronto wordmark.",
+    "category": "Technology",
+    "firstPick": true,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_07_pronto-in-the-field_FULL_4096x2160.png",
+    "masterBytes": 4293384,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_07_pronto-in-the-field_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_07_pronto-in-the-field_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_07_pronto-in-the-field_landscape_3840x2160.png",
+        "jpgBytes": 1922059,
+        "pngBytes": 4062078
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_07_pronto-in-the-field_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_07_pronto-in-the-field_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_07_pronto-in-the-field_portrait_1728x2160.png",
+        "jpgBytes": 886867,
+        "pngBytes": 1858155
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_07_pronto-in-the-field_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_07_pronto-in-the-field_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_07_pronto-in-the-field_square_2160x2160.png",
+        "jpgBytes": 1159500,
+        "pngBytes": 2373859
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The autonomous cab",
+    "seconds": 26.192833,
+    "frame": 628,
+    "use": "Autonomy story; unoccupied cab and road ahead.",
+    "category": "Technology",
+    "firstPick": true,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_08_the-autonomous-cab_FULL_4096x2160.png",
+    "masterBytes": 4519530,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_08_the-autonomous-cab_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_08_the-autonomous-cab_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_08_the-autonomous-cab_landscape_3840x2160.png",
+        "jpgBytes": 2161800,
+        "pngBytes": 4250935
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_08_the-autonomous-cab_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_08_the-autonomous-cab_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_08_the-autonomous-cab_portrait_1728x2160.png",
+        "jpgBytes": 1090929,
+        "pngBytes": 1982498
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_08_the-autonomous-cab_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_08_the-autonomous-cab_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_08_the-autonomous-cab_square_2160x2160.png",
+        "jpgBytes": 1351809,
+        "pngBytes": 2480677
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Human oversight",
+    "seconds": 30.113417,
+    "frame": 722,
+    "use": "Team / field operations; observer and truck in one frame.",
+    "category": "People",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_09_human-oversight_FULL_4096x2160.png",
+    "masterBytes": 5545974,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_09_human-oversight_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_09_human-oversight_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_09_human-oversight_landscape_3840x2160.png",
+        "jpgBytes": 2754435,
+        "pngBytes": 5289454
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_09_human-oversight_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_09_human-oversight_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_09_human-oversight_portrait_1728x2160.png",
+        "jpgBytes": 1287118,
+        "pngBytes": 2419111
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_09_human-oversight_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_09_human-oversight_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_09_human-oversight_square_2160x2160.png",
+        "jpgBytes": 1624567,
+        "pngBytes": 3063488
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Working landscape",
+    "seconds": 70.487083,
+    "frame": 1690,
+    "use": "Site overview / section divider; broad operating context.",
+    "category": "Environment",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_10_working-landscape_FULL_4096x2160.png",
+    "masterBytes": 9509962,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_10_working-landscape_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_10_working-landscape_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_10_working-landscape_landscape_3840x2160.png",
+        "jpgBytes": 3866423,
+        "pngBytes": 8925465
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_10_working-landscape_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_10_working-landscape_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_10_working-landscape_portrait_1728x2160.png",
+        "jpgBytes": 1726345,
+        "pngBytes": 3946670
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_10_working-landscape_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_10_working-landscape_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_10_working-landscape_square_2160x2160.png",
+        "jpgBytes": 2145723,
+        "pngBytes": 4945709
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Loaded and moving",
+    "seconds": 79.120708,
+    "frame": 1897,
+    "use": "Productivity / loaded truck, three-quarter view.",
+    "category": "Operations",
+    "firstPick": true,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_11_loaded-and-moving_FULL_4096x2160.png",
+    "masterBytes": 8539616,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_11_loaded-and-moving_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_11_loaded-and-moving_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_11_loaded-and-moving_landscape_3840x2160.png",
+        "jpgBytes": 3510367,
+        "pngBytes": 8069593
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_11_loaded-and-moving_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_11_loaded-and-moving_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_11_loaded-and-moving_portrait_1728x2160.png",
+        "jpgBytes": 1673475,
+        "pngBytes": 3784777
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_11_loaded-and-moving_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_11_loaded-and-moving_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_11_loaded-and-moving_square_2160x2160.png",
+        "jpgBytes": 2081585,
+        "pngBytes": 4732975
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Material in motion",
+    "seconds": 86.294542,
+    "frame": 2069,
+    "use": "Operations / unloading sequence.",
+    "category": "Operations",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_12_material-in-motion_FULL_4096x2160.png",
+    "masterBytes": 9222194,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_12_material-in-motion_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_12_material-in-motion_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_12_material-in-motion_landscape_3840x2160.png",
+        "jpgBytes": 3687253,
+        "pngBytes": 8690225
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_12_material-in-motion_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_12_material-in-motion_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_12_material-in-motion_portrait_1728x2160.png",
+        "jpgBytes": 1706721,
+        "pngBytes": 4066967
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_12_material-in-motion_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_12_material-in-motion_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_12_material-in-motion_square_2160x2160.png",
+        "jpgBytes": 2152257,
+        "pngBytes": 5054400
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Heavy-duty texture",
+    "seconds": 5.005,
+    "frame": 120,
+    "use": "Editorial detail / wheel, rubber and steel.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_13_heavy-duty-texture_FULL_4096x2160.png",
+    "masterBytes": 12110438,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_13_heavy-duty-texture_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_13_heavy-duty-texture_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_13_heavy-duty-texture_landscape_3840x2160.png",
+        "jpgBytes": 4958319,
+        "pngBytes": 11327832
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_13_heavy-duty-texture_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_13_heavy-duty-texture_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_13_heavy-duty-texture_portrait_1728x2160.png",
+        "jpgBytes": 2427454,
+        "pngBytes": 5145969
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_13_heavy-duty-texture_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_13_heavy-duty-texture_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_13_heavy-duty-texture_square_2160x2160.png",
+        "jpgBytes": 3030353,
+        "pngBytes": 6474040
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Machine architecture",
+    "seconds": 12.303958,
+    "frame": 295,
+    "use": "Mobile product story / dramatic upward view.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_14_machine-architecture_FULL_4096x2160.png",
+    "masterBytes": 8691288,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_14_machine-architecture_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_14_machine-architecture_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_14_machine-architecture_landscape_3840x2160.png",
+        "jpgBytes": 3730468,
+        "pngBytes": 8179093
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_14_machine-architecture_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_14_machine-architecture_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_14_machine-architecture_portrait_1728x2160.png",
+        "jpgBytes": 1887901,
+        "pngBytes": 4037840
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_14_machine-architecture_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_14_machine-architecture_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_14_machine-architecture_square_2160x2160.png",
+        "jpgBytes": 2285498,
+        "pngBytes": 4941139
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Autonomy on the machine",
+    "seconds": 6.798458,
+    "frame": 163,
+    "use": "Retrofit hardware / cab-side equipment detail.",
+    "category": "Technology",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_15_autonomy-on-the-machine_FULL_4096x2160.png",
+    "masterBytes": 7203229,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_15_autonomy-on-the-machine_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_15_autonomy-on-the-machine_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_15_autonomy-on-the-machine_landscape_3840x2160.png",
+        "jpgBytes": 3221724,
+        "pngBytes": 6840367
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_15_autonomy-on-the-machine_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_15_autonomy-on-the-machine_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_15_autonomy-on-the-machine_portrait_1728x2160.png",
+        "jpgBytes": 1524891,
+        "pngBytes": 3257119
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_15_autonomy-on-the-machine_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_15_autonomy-on-the-machine_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_15_autonomy-on-the-machine_square_2160x2160.png",
+        "jpgBytes": 1903828,
+        "pngBytes": 4024059
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Hands-on engineering",
+    "seconds": 23.690333,
+    "frame": 568,
+    "use": "People / engineering support; hands and laptop.",
+    "category": "People",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_16_hands-on-engineering_FULL_4096x2160.png",
+    "masterBytes": 6403706,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_16_hands-on-engineering_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_16_hands-on-engineering_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_16_hands-on-engineering_landscape_3840x2160.png",
+        "jpgBytes": 2665418,
+        "pngBytes": 5975714
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_16_hands-on-engineering_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_16_hands-on-engineering_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_16_hands-on-engineering_portrait_1728x2160.png",
+        "jpgBytes": 1194295,
+        "pngBytes": 2618083
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_16_hands-on-engineering_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_16_hands-on-engineering_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_16_hands-on-engineering_square_2160x2160.png",
+        "jpgBytes": 1508421,
+        "pngBytes": 3311094
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Pronto hard hat",
+    "seconds": 35.28525,
+    "frame": 846,
+    "use": "Brand / field culture; hard hat with truck beyond.",
+    "category": "People",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_17_pronto-hard-hat_FULL_4096x2160.png",
+    "masterBytes": 3108039,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_17_pronto-hard-hat_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_17_pronto-hard-hat_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_17_pronto-hard-hat_landscape_3840x2160.png",
+        "jpgBytes": 1707867,
+        "pngBytes": 2970257
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_17_pronto-hard-hat_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_17_pronto-hard-hat_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_17_pronto-hard-hat_portrait_1728x2160.png",
+        "jpgBytes": 808150,
+        "pngBytes": 1475902
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_17_pronto-hard-hat_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_17_pronto-hard-hat_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_17_pronto-hard-hat_square_2160x2160.png",
+        "jpgBytes": 1024353,
+        "pngBytes": 1738197
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Following the route",
+    "seconds": 42.500792,
+    "frame": 1019,
+    "use": "Mobile operations / truck framed by haul road.",
+    "category": "Operations",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_18_following-the-route_FULL_4096x2160.png",
+    "masterBytes": 6955820,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_18_following-the-route_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_18_following-the-route_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_18_following-the-route_landscape_3840x2160.png",
+        "jpgBytes": 2775449,
+        "pngBytes": 6506806
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_18_following-the-route_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_18_following-the-route_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_18_following-the-route_portrait_1728x2160.png",
+        "jpgBytes": 1267357,
+        "pngBytes": 2919520
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_18_following-the-route_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_18_following-the-route_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_18_following-the-route_square_2160x2160.png",
+        "jpgBytes": 1577872,
+        "pngBytes": 3671067
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "The loading cycle",
+    "seconds": 62.187125,
+    "frame": 1491,
+    "use": "Production / falling material and loaded truck bed.",
+    "category": "Operations",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_19_the-loading-cycle_FULL_4096x2160.png",
+    "masterBytes": 7121373,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_19_the-loading-cycle_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_19_the-loading-cycle_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_19_the-loading-cycle_landscape_3840x2160.png",
+        "jpgBytes": 3044696,
+        "pngBytes": 6720624
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_19_the-loading-cycle_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_19_the-loading-cycle_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_19_the-loading-cycle_portrait_1728x2160.png",
+        "jpgBytes": 1508530,
+        "pngBytes": 3297258
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_19_the-loading-cycle_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_19_the-loading-cycle_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_19_the-loading-cycle_square_2160x2160.png",
+        "jpgBytes": 1845167,
+        "pngBytes": 4016641
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Unloading from above",
+    "seconds": 88.296542,
+    "frame": 2117,
+    "use": "Mobile operations / raised bed and material flow.",
+    "category": "Operations",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_20_unloading-from-above_FULL_4096x2160.png",
+    "masterBytes": 10263647,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_20_unloading-from-above_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_20_unloading-from-above_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_20_unloading-from-above_landscape_3840x2160.png",
+        "jpgBytes": 4004269,
+        "pngBytes": 9610185
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_20_unloading-from-above_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_20_unloading-from-above_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_20_unloading-from-above_portrait_1728x2160.png",
+        "jpgBytes": 1648048,
+        "pngBytes": 3939371
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_20_unloading-from-above_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_20_unloading-from-above_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_20_unloading-from-above_square_2160x2160.png",
+        "jpgBytes": 2117820,
+        "pngBytes": 5090866
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Physical controls",
+    "seconds": 14.097417,
+    "frame": 338,
+    "use": "Technology tile / controls and status lights.",
+    "category": "Technology",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_21_physical-controls_FULL_4096x2160.png",
+    "masterBytes": 6821907,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_21_physical-controls_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_21_physical-controls_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_21_physical-controls_landscape_3840x2160.png",
+        "jpgBytes": 2844520,
+        "pngBytes": 6418524
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_21_physical-controls_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_21_physical-controls_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_21_physical-controls_portrait_1728x2160.png",
+        "jpgBytes": 1515411,
+        "pngBytes": 3316214
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_21_physical-controls_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_21_physical-controls_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_21_physical-controls_square_2160x2160.png",
+        "jpgBytes": 1894459,
+        "pngBytes": 4136143
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "The sensor array",
+    "seconds": 10.719042,
+    "frame": 257,
+    "use": "Technology tile / sensing equipment against sky.",
+    "category": "Technology",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_22_the-sensor-array_FULL_4096x2160.png",
+    "masterBytes": 4426252,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_22_the-sensor-array_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_22_the-sensor-array_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_22_the-sensor-array_landscape_3840x2160.png",
+        "jpgBytes": 1980359,
+        "pngBytes": 4123554
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_22_the-sensor-array_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_22_the-sensor-array_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_22_the-sensor-array_portrait_1728x2160.png",
+        "jpgBytes": 914875,
+        "pngBytes": 1775177
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_22_the-sensor-array_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_22_the-sensor-array_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_22_the-sensor-array_square_2160x2160.png",
+        "jpgBytes": 1155781,
+        "pngBytes": 2352064
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Route intelligence",
+    "seconds": 32.78275,
+    "frame": 786,
+    "use": "Software tile / route visualization; context image, not a UI screenshot.",
+    "category": "Technology",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_23_route-intelligence_FULL_4096x2160.png",
+    "masterBytes": 6999564,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_23_route-intelligence_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_23_route-intelligence_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_23_route-intelligence_landscape_3840x2160.png",
+        "jpgBytes": 3174657,
+        "pngBytes": 6567891
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_23_route-intelligence_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_23_route-intelligence_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_23_route-intelligence_portrait_1728x2160.png",
+        "jpgBytes": 1350920,
+        "pngBytes": 2905730
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_23_route-intelligence_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_23_route-intelligence_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_23_route-intelligence_square_2160x2160.png",
+        "jpgBytes": 1702507,
+        "pngBytes": 3618219
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Payload from above",
+    "seconds": 64.481083,
+    "frame": 1546,
+    "use": "Editorial tile / overhead geometry and payload.",
+    "category": "Operations",
+    "firstPick": true,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_24_payload-from-above_FULL_4096x2160.png",
+    "masterBytes": 9467988,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_24_payload-from-above_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_24_payload-from-above_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_24_payload-from-above_landscape_3840x2160.png",
+        "jpgBytes": 3722835,
+        "pngBytes": 8875927
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_24_payload-from-above_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_24_payload-from-above_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_24_payload-from-above_portrait_1728x2160.png",
+        "jpgBytes": 1654507,
+        "pngBytes": 3923020
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_24_payload-from-above_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_24_payload-from-above_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_24_payload-from-above_square_2160x2160.png",
+        "jpgBytes": 2099652,
+        "pngBytes": 4937844
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Built for the site",
+    "seconds": 55.096708,
+    "frame": 1321,
+    "use": "Product tile / cab, front wheel and body detail.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_25_built-for-the-site_FULL_4096x2160.png",
+    "masterBytes": 7060763,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_25_built-for-the-site_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_25_built-for-the-site_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_25_built-for-the-site_landscape_3840x2160.png",
+        "jpgBytes": 3031697,
+        "pngBytes": 6561601
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_25_built-for-the-site_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_25_built-for-the-site_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_25_built-for-the-site_portrait_1728x2160.png",
+        "jpgBytes": 1448245,
+        "pngBytes": 3068792
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_25_built-for-the-site_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_25_built-for-the-site_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_25_built-for-the-site_square_2160x2160.png",
+        "jpgBytes": 1796377,
+        "pngBytes": 3907595
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Head-on presence",
+    "seconds": 81.790042,
+    "frame": 1961,
+    "use": "Product tile / frontal truck architecture.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_26_head-on-presence_FULL_4096x2160.png",
+    "masterBytes": 9066424,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_26_head-on-presence_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_26_head-on-presence_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_26_head-on-presence_landscape_3840x2160.png",
+        "jpgBytes": 3686975,
+        "pngBytes": 8470862
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_26_head-on-presence_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_26_head-on-presence_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_26_head-on-presence_portrait_1728x2160.png",
+        "jpgBytes": 1687311,
+        "pngBytes": 3662791
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_26_head-on-presence_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_26_head-on-presence_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_26_head-on-presence_square_2160x2160.png",
+        "jpgBytes": 2083716,
+        "pngBytes": 4532276
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Raise and release",
+    "seconds": 90.882458,
+    "frame": 2179,
+    "use": "Operations tile / raised bed, chassis and cab.",
+    "category": "Operations",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_27_raise-and-release_FULL_4096x2160.png",
+    "masterBytes": 7725111,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_27_raise-and-release_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_27_raise-and-release_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_27_raise-and-release_landscape_3840x2160.png",
+        "jpgBytes": 3196148,
+        "pngBytes": 7324468
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_27_raise-and-release_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_27_raise-and-release_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_27_raise-and-release_portrait_1728x2160.png",
+        "jpgBytes": 1453736,
+        "pngBytes": 3292774
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_27_raise-and-release_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_27_raise-and-release_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_27_raise-and-release_square_2160x2160.png",
+        "jpgBytes": 1852824,
+        "pngBytes": 4163385
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Back to work",
+    "seconds": 94.719625,
+    "frame": 2271,
+    "use": "Closing story / empty truck departing through dust.",
+    "category": "Operations",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_28_back-to-work_FULL_4096x2160.png",
+    "masterBytes": 6837745,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_28_back-to-work_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_28_back-to-work_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_28_back-to-work_landscape_3840x2160.png",
+        "jpgBytes": 2794687,
+        "pngBytes": 6342840
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_28_back-to-work_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_28_back-to-work_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_28_back-to-work_portrait_1728x2160.png",
+        "jpgBytes": 1187840,
+        "pngBytes": 2567013
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_28_back-to-work_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_28_back-to-work_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_28_back-to-work_square_2160x2160.png",
+        "jpgBytes": 1531360,
+        "pngBytes": 3311812
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Steel and scale",
+    "seconds": 1.793458,
+    "frame": 43,
+    "use": "Machine detail / truck body and rear wheels.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_29_steel-and-scale_FULL_4096x2160.png",
+    "masterBytes": 10416500,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_29_steel-and-scale_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_29_steel-and-scale_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_29_steel-and-scale_landscape_3840x2160.png",
+        "jpgBytes": 4370915,
+        "pngBytes": 9723786
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_29_steel-and-scale_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_29_steel-and-scale_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_29_steel-and-scale_portrait_1728x2160.png",
+        "jpgBytes": 1885103,
+        "pngBytes": 4158975
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_29_steel-and-scale_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_29_steel-and-scale_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_29_steel-and-scale_square_2160x2160.png",
+        "jpgBytes": 2456367,
+        "pngBytes": 5238547
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Under the body",
+    "seconds": 3.294958,
+    "frame": 79,
+    "use": "Engineering detail / suspension, steel and tire.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_30_under-the-body_FULL_4096x2160.png",
+    "masterBytes": 6209600,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_30_under-the-body_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_30_under-the-body_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_30_under-the-body_landscape_3840x2160.png",
+        "jpgBytes": 2767791,
+        "pngBytes": 5874702
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_30_under-the-body_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_30_under-the-body_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_30_under-the-body_portrait_1728x2160.png",
+        "jpgBytes": 1365185,
+        "pngBytes": 2964699
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_30_under-the-body_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_30_under-the-body_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_30_under-the-body_square_2160x2160.png",
+        "jpgBytes": 1671423,
+        "pngBytes": 3572762
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Entering the mine",
+    "seconds": 15.598917,
+    "frame": 374,
+    "use": "Establishing view / truck on the mine road.",
+    "category": "Environment",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_31_entering-the-mine_FULL_4096x2160.png",
+    "masterBytes": 7157899,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_31_entering-the-mine_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_31_entering-the-mine_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_31_entering-the-mine_landscape_3840x2160.png",
+        "jpgBytes": 2921839,
+        "pngBytes": 6636907
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_31_entering-the-mine_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_31_entering-the-mine_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_31_entering-the-mine_portrait_1728x2160.png",
+        "jpgBytes": 1234335,
+        "pngBytes": 2724296
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_31_entering-the-mine_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_31_entering-the-mine_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_31_entering-the-mine_square_2160x2160.png",
+        "jpgBytes": 1513862,
+        "pngBytes": 3393283
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Beneath the machine",
+    "seconds": 21.104417,
+    "frame": 506,
+    "use": "Editorial detail / chassis silhouette and scale.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_32_beneath-the-machine_FULL_4096x2160.png",
+    "masterBytes": 1391002,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_32_beneath-the-machine_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_32_beneath-the-machine_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_32_beneath-the-machine_landscape_3840x2160.png",
+        "jpgBytes": 905420,
+        "pngBytes": 1342230
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_32_beneath-the-machine_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_32_beneath-the-machine_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_32_beneath-the-machine_portrait_1728x2160.png",
+        "jpgBytes": 486670,
+        "pngBytes": 746076
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_32_beneath-the-machine_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_32_beneath-the-machine_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_32_beneath-the-machine_square_2160x2160.png",
+        "jpgBytes": 589282,
+        "pngBytes": 903853
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Field workstation",
+    "seconds": 28.486792,
+    "frame": 683,
+    "use": "Technology / in-vehicle monitoring workstation.",
+    "category": "Technology",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_33_field-workstation_FULL_4096x2160.png",
+    "masterBytes": 4967473,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_33_field-workstation_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_33_field-workstation_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_33_field-workstation_landscape_3840x2160.png",
+        "jpgBytes": 2552221,
+        "pngBytes": 4745924
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_33_field-workstation_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_33_field-workstation_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_33_field-workstation_portrait_1728x2160.png",
+        "jpgBytes": 1345111,
+        "pngBytes": 2607103
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_33_field-workstation_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_33_field-workstation_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_33_field-workstation_square_2160x2160.png",
+        "jpgBytes": 1647054,
+        "pngBytes": 3144938
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Across the quarry",
+    "seconds": 39.998292,
+    "frame": 959,
+    "use": "Operations / broadside truck against rock layers.",
+    "category": "Environment",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_34_across-the-quarry_FULL_4096x2160.png",
+    "masterBytes": 10941218,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_34_across-the-quarry_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_34_across-the-quarry_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_34_across-the-quarry_landscape_3840x2160.png",
+        "jpgBytes": 4449872,
+        "pngBytes": 10267316
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_34_across-the-quarry_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_34_across-the-quarry_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_34_across-the-quarry_portrait_1728x2160.png",
+        "jpgBytes": 1991600,
+        "pngBytes": 4531340
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_34_across-the-quarry_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_34_across-the-quarry_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_34_across-the-quarry_square_2160x2160.png",
+        "jpgBytes": 2505540,
+        "pngBytes": 5739274
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "On the mine bench",
+    "seconds": 48.79875,
+    "frame": 1170,
+    "use": "Environment / truck traversing the mine bench.",
+    "category": "Environment",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_35_on-the-mine-bench_FULL_4096x2160.png",
+    "masterBytes": 8890139,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_35_on-the-mine-bench_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_35_on-the-mine-bench_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_35_on-the-mine-bench_landscape_3840x2160.png",
+        "jpgBytes": 3533429,
+        "pngBytes": 8334260
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_35_on-the-mine-bench_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_35_on-the-mine-bench_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_35_on-the-mine-bench_portrait_1728x2160.png",
+        "jpgBytes": 1518546,
+        "pngBytes": 3534091
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_35_on-the-mine-bench_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_35_on-the-mine-bench_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_35_on-the-mine-bench_square_2160x2160.png",
+        "jpgBytes": 1906691,
+        "pngBytes": 4451673
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Turning into view",
+    "seconds": 57.599208,
+    "frame": 1381,
+    "use": "Product / three-quarter view of the empty truck.",
+    "category": "Machines",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_36_turning-into-view_FULL_4096x2160.png",
+    "masterBytes": 9114968,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_36_turning-into-view_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_36_turning-into-view_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_36_turning-into-view_landscape_3840x2160.png",
+        "jpgBytes": 3633213,
+        "pngBytes": 8503172
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_36_turning-into-view_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_36_turning-into-view_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_36_turning-into-view_portrait_1728x2160.png",
+        "jpgBytes": 1608373,
+        "pngBytes": 3697074
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_36_turning-into-view_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_36_turning-into-view_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_36_turning-into-view_square_2160x2160.png",
+        "jpgBytes": 2032012,
+        "pngBytes": 4628035
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Ready to load",
+    "seconds": 60.185125,
+    "frame": 1443,
+    "use": "Production / loader bucket poised above the truck.",
+    "category": "Operations",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_37_ready-to-load_FULL_4096x2160.png",
+    "masterBytes": 7183138,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_37_ready-to-load_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_37_ready-to-load_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_37_ready-to-load_landscape_3840x2160.png",
+        "jpgBytes": 3084045,
+        "pngBytes": 6787698
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_37_ready-to-load_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_37_ready-to-load_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_37_ready-to-load_portrait_1728x2160.png",
+        "jpgBytes": 1491412,
+        "pngBytes": 3282735
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_37_ready-to-load_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_37_ready-to-load_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_37_ready-to-load_square_2160x2160.png",
+        "jpgBytes": 1823250,
+        "pngBytes": 4039842
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Cab and sensing hardware",
+    "seconds": 66.983583,
+    "frame": 1606,
+    "use": "Technology / installed hardware on the working truck.",
+    "category": "Technology",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_38_cab-and-sensing-hardware_FULL_4096x2160.png",
+    "masterBytes": 8890832,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_38_cab-and-sensing-hardware_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_38_cab-and-sensing-hardware_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_38_cab-and-sensing-hardware_landscape_3840x2160.png",
+        "jpgBytes": 3714344,
+        "pngBytes": 8312563
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_38_cab-and-sensing-hardware_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_38_cab-and-sensing-hardware_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_38_cab-and-sensing-hardware_portrait_1728x2160.png",
+        "jpgBytes": 1716904,
+        "pngBytes": 3682561
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_38_cab-and-sensing-hardware_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_38_cab-and-sensing-hardware_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_38_cab-and-sensing-hardware_square_2160x2160.png",
+        "jpgBytes": 2124828,
+        "pngBytes": 4604219
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Carrying the payload",
+    "seconds": 74.783042,
+    "frame": 1793,
+    "use": "Productivity / rear view of loaded truck.",
+    "category": "Operations",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_39_carrying-the-payload_FULL_4096x2160.png",
+    "masterBytes": 9490389,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_39_carrying-the-payload_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_39_carrying-the-payload_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_39_carrying-the-payload_landscape_3840x2160.png",
+        "jpgBytes": 3659579,
+        "pngBytes": 8891799
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_39_carrying-the-payload_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_39_carrying-the-payload_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_39_carrying-the-payload_portrait_1728x2160.png",
+        "jpgBytes": 1660936,
+        "pngBytes": 3945754
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_39_carrying-the-payload_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_39_carrying-the-payload_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_39_carrying-the-payload_square_2160x2160.png",
+        "jpgBytes": 2063922,
+        "pngBytes": 4949803
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Against the copper wall",
+    "seconds": 76.785042,
+    "frame": 1841,
+    "use": "Industry / loaded truck against warm red rock.",
+    "category": "Environment",
+    "firstPick": false,
+    "master": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_40_against-the-copper-wall_FULL_4096x2160.png",
+    "masterBytes": 8823194,
+    "variants": [
+      {
+        "orientation": "Landscape",
+        "ratio": "16:9",
+        "width": 3840,
+        "height": 2160,
+        "preview": "/previews/PRONTO_40_against-the-copper-wall_landscape.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_40_against-the-copper-wall_landscape_3840x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_40_against-the-copper-wall_landscape_3840x2160.png",
+        "jpgBytes": 3363355,
+        "pngBytes": 8292293
+      },
+      {
+        "orientation": "Portrait",
+        "ratio": "4:5",
+        "width": 1728,
+        "height": 2160,
+        "preview": "/previews/PRONTO_40_against-the-copper-wall_portrait.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_40_against-the-copper-wall_portrait_1728x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_40_against-the-copper-wall_portrait_1728x2160.png",
+        "jpgBytes": 1649639,
+        "pngBytes": 3938655
+      },
+      {
+        "orientation": "Square",
+        "ratio": "1:1",
+        "width": 2160,
+        "height": 2160,
+        "preview": "/previews/PRONTO_40_against-the-copper-wall_square.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_40_against-the-copper-wall_square_2160x2160.jpg",
+        "png": "https://github.com/adamboy2000/film/releases/download/pronto-copper-mine-v1/PRONTO_40_against-the-copper-wall_square_2160x2160.png",
+        "jpgBytes": 2014714,
+        "pngBytes": 4842460
+      }
+    ]
+  }
+]

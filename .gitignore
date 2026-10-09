@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vercel/
+.env*
+.work/
+output/
+Pronto_Designer_Stills_40/
+*.zip
+*.tsbuildinfo
+.DS_Store
