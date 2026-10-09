@@ -61,10 +61,18 @@ html{scroll-padding-top:calc(var(--header-height) + 76px)}
 @media(max-width:720px){:root{--page-top-space:42px;--page-gutter:18px}}
 
 /* A single circular back control beside the page title. */
-.collection-title-row{align-items:center}
+.collection-title-row{align-items:baseline}.collection-title-row>.collection-back{align-self:center}
 .collection-back{width:36px;height:36px;background:var(--stage);padding:0;margin:0;color:var(--ink)}
 .viewer-back-group{display:flex;align-items:center;gap:12px;min-width:0;font-size:12px;font-weight:500}
 .draft-tools{padding-top:0}
 .brand-card.awaiting .brand-stage::after{box-shadow:none}
 
 .collection-title-row,.viewer-back-group,.viewer-navigation{min-height:42px}
+
+/* Keep the total with the active filter; retain legible hierarchy in the viewer. */
+.filter-count{margin-left:7px;color:color-mix(in srgb,var(--on-slab) 66%,var(--slab));font-variant-numeric:tabular-nums}
+.viewer-back-group>h1{font-size:24px;font-weight:500;line-height:1.2;letter-spacing:-.65px;overflow-wrap:anywhere}
+@media(max-width:720px){.viewer-back-group>h1{font-size:20px;letter-spacing:-.4px}}
+
+.viewer-navigation{flex-shrink:0}.viewer-back-group>.collection-back{flex-shrink:0}.shot-title-row{align-items:center}.shot-title-row .shot-eyebrow{margin:0}.shot-title-row .icon-button{margin:0}
+@media(max-width:720px){.viewer-topline{flex-wrap:wrap;gap:14px}.viewer-back-group{width:100%}.viewer-navigation{margin-left:auto}}
