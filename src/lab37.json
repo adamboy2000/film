@@ -1,0 +1,577 @@
+[
+  {
+    "id": 101,
+    "brand": "lab37",
+    "title": "The complete kitchen",
+    "category": "Product renders",
+    "use": "The complete automated kitchen, shown at human scale.",
+    "originalName": "Front_Render.png",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Render.png",
+    "originalBytes": 13695569,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 4000,
+        "height": 2250,
+        "preview": "/previews/lab37/LAB37_01.webp",
+        "jpg": null,
+        "png": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Render.png",
+        "jpgBytes": 0,
+        "pngBytes": 13695569
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "brand": "lab37",
+    "title": "Kitchen, assembled",
+    "category": "Studio photography",
+    "use": "A clean view of the complete assembly in the studio.",
+    "originalName": "Lab37_JoshCherner_Lab372131.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_Lab372131.jpg",
+    "originalBytes": 12633750,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8095,
+        "height": 5402,
+        "preview": "/previews/lab37/LAB37_02.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_Lab372131.jpg",
+        "png": null,
+        "jpgBytes": 12633750,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "brand": "lab37",
+    "title": "Building the line",
+    "category": "Studio photography",
+    "use": "People and machinery at work in the studio.",
+    "originalName": "Lab37_JoshCherner_L1100957.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1100957.jpg",
+    "originalBytes": 15754218,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8368,
+        "height": 5584,
+        "preview": "/previews/lab37/LAB37_03.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1100957.jpg",
+        "png": null,
+        "jpgBytes": 15754218,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "brand": "lab37",
+    "title": "On the workshop floor",
+    "category": "Studio photography",
+    "use": "The team at work on the assembly.",
+    "originalName": "Lab37_JoshCherner_L1110776.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1110776.jpg",
+    "originalBytes": 17753235,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8368,
+        "height": 5584,
+        "preview": "/previews/lab37/LAB37_04.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1110776.jpg",
+        "png": null,
+        "jpgBytes": 17753235,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "brand": "lab37",
+    "title": "Hands on the hardware",
+    "category": "Studio photography",
+    "use": "A close view of hands, tools, and the physical build.",
+    "originalName": "Lab37_JoshCherner_L1080866.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080866.jpg",
+    "originalBytes": 16784366,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8368,
+        "height": 5584,
+        "preview": "/previews/lab37/LAB37_05.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080866.jpg",
+        "png": null,
+        "jpgBytes": 16784366,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "brand": "lab37",
+    "title": "Inside the machine",
+    "category": "Studio photography",
+    "use": "Hands at work inside the sensing and control hardware.",
+    "originalName": "Lab37_JoshCherner_L1080886.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080886.jpg",
+    "originalBytes": 39790547,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8368,
+        "height": 5584,
+        "preview": "/previews/lab37/LAB37_06.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080886.jpg",
+        "png": null,
+        "jpgBytes": 39790547,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "brand": "lab37",
+    "title": "The full system",
+    "category": "Product renders",
+    "use": "The complete system against a clean background.",
+    "originalName": "Front_Full_L37.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Full_L37.jpg",
+    "originalBytes": 2101915,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 4000,
+        "height": 2250,
+        "preview": "/previews/lab37/LAB37_07.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Full_L37.jpg",
+        "png": null,
+        "jpgBytes": 2101915,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "brand": "lab37",
+    "title": "Across the line",
+    "category": "Product renders",
+    "use": "A closer view of the kitchen assembly.",
+    "originalName": "Front_Crop_L37.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Crop_L37.jpg",
+    "originalBytes": 2158816,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 4020,
+        "height": 2250,
+        "preview": "/previews/lab37/LAB37_08.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Front_Crop_L37.jpg",
+        "png": null,
+        "jpgBytes": 2158816,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "brand": "lab37",
+    "title": "The bowler",
+    "category": "Product renders",
+    "use": "A product render of the bowl dispensing module.",
+    "originalName": "Bowler.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Bowler.jpg",
+    "originalBytes": 1085499,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 2320,
+        "height": 2320,
+        "preview": "/previews/lab37/LAB37_09.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Bowler.jpg",
+        "png": null,
+        "jpgBytes": 1085499,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "brand": "lab37",
+    "title": "The lidder",
+    "category": "Product renders",
+    "use": "A product render of the lid dispensing module.",
+    "originalName": "Lidder.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lidder.jpg",
+    "originalBytes": 691810,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 2320,
+        "height": 2320,
+        "preview": "/previews/lab37/LAB37_10.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lidder.jpg",
+        "png": null,
+        "jpgBytes": 691810,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "brand": "lab37",
+    "title": "Saucer, in perspective",
+    "category": "Product renders",
+    "use": "An angled view of the sauce dispensing module.",
+    "originalName": "Saucer_Axo.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Axo.jpg",
+    "originalBytes": 1069373,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 2320,
+        "height": 2320,
+        "preview": "/previews/lab37/LAB37_11.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Axo.jpg",
+        "png": null,
+        "jpgBytes": 1069373,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "brand": "lab37",
+    "title": "Saucer, from the front",
+    "category": "Product renders",
+    "use": "The sauce dispensing module viewed from the front.",
+    "originalName": "Saucer_Front.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Front.jpg",
+    "originalBytes": 1909118,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 2320,
+        "height": 2320,
+        "preview": "/previews/lab37/LAB37_12.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Front.jpg",
+        "png": null,
+        "jpgBytes": 1909118,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "brand": "lab37",
+    "title": "Saucer, from the side",
+    "category": "Product renders",
+    "use": "The sauce dispensing module viewed from the side.",
+    "originalName": "Saucer_Side.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Side.jpg",
+    "originalBytes": 2138123,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 2320,
+        "height": 2320,
+        "preview": "/previews/lab37/LAB37_13.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Saucer_Side.jpg",
+        "png": null,
+        "jpgBytes": 2138123,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "brand": "lab37",
+    "title": "Inside the hopper",
+    "category": "Product renders",
+    "use": "The internal hopper assembly.",
+    "originalName": "Hopper_Heat.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Hopper_Heat.jpg",
+    "originalBytes": 781670,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 2320,
+        "height": 2320,
+        "preview": "/previews/lab37/LAB37_14.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Hopper_Heat.jpg",
+        "png": null,
+        "jpgBytes": 781670,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "brand": "lab37",
+    "title": "Ingredients, in place",
+    "category": "Product renders",
+    "use": "The hopper with ingredients and an open lid.",
+    "originalName": "Hopper_Lid.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Hopper_Lid.jpg",
+    "originalBytes": 1023116,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 2320,
+        "height": 2320,
+        "preview": "/previews/lab37/LAB37_15.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Hopper_Lid.jpg",
+        "png": null,
+        "jpgBytes": 1023116,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "brand": "lab37",
+    "title": "Mechanical detail",
+    "category": "Studio photography",
+    "use": "A close view of the machined assembly.",
+    "originalName": "Lab37_JoshCherner_L1080906.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080906.jpg",
+    "originalBytes": 17069566,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 5940,
+        "height": 3964,
+        "preview": "/previews/lab37/LAB37_16.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080906.jpg",
+        "png": null,
+        "jpgBytes": 17069566,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "brand": "lab37",
+    "title": "Steel, up close",
+    "category": "Studio photography",
+    "use": "A vertical study of steel and machine details.",
+    "originalName": "Lab37_JoshCherner_L1080966.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080966.jpg",
+    "originalBytes": 26840691,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 5271,
+        "height": 6589,
+        "preview": "/previews/lab37/LAB37_17.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1080966.jpg",
+        "png": null,
+        "jpgBytes": 26840691,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "brand": "lab37",
+    "title": "Assembly in motion",
+    "category": "Studio photography",
+    "use": "The team moves through the assembly process.",
+    "originalName": "Lab37_JoshCherner_L1120322.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120322.jpg",
+    "originalBytes": 17196272,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8368,
+        "height": 5584,
+        "preview": "/previews/lab37/LAB37_18.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120322.jpg",
+        "png": null,
+        "jpgBytes": 17196272,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "brand": "lab37",
+    "title": "Ready for the road",
+    "category": "Studio photography",
+    "use": "The system being prepared for transport.",
+    "originalName": "Lab37_JoshCherner_L1120347.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120347.jpg",
+    "originalBytes": 22727232,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8368,
+        "height": 5584,
+        "preview": "/previews/lab37/LAB37_19.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120347.jpg",
+        "png": null,
+        "jpgBytes": 22727232,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "brand": "lab37",
+    "title": "Loading the system",
+    "category": "Studio photography",
+    "use": "The kitchen assembly inside the loading bay.",
+    "originalName": "Lab37_JoshCherner_L1120349.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120349.jpg",
+    "originalBytes": 14761984,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8368,
+        "height": 5584,
+        "preview": "/previews/lab37/LAB37_20.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120349.jpg",
+        "png": null,
+        "jpgBytes": 14761984,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "brand": "lab37",
+    "title": "Crates and concrete",
+    "category": "Studio photography",
+    "use": "Packed equipment on the workshop floor.",
+    "originalName": "Lab37_JoshCherner_L1120358.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120358.jpg",
+    "originalBytes": 16432689,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 5584,
+        "height": 6980,
+        "preview": "/previews/lab37/LAB37_21.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120358.jpg",
+        "png": null,
+        "jpgBytes": 16432689,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "brand": "lab37",
+    "title": "Scale of the workshop",
+    "category": "Studio photography",
+    "use": "A vertical view of the workshop and packed equipment.",
+    "originalName": "Lab37_JoshCherner_L1120364.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120364.jpg",
+    "originalBytes": 17488532,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 5584,
+        "height": 8368,
+        "preview": "/previews/lab37/LAB37_22.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120364.jpg",
+        "png": null,
+        "jpgBytes": 17488532,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "brand": "lab37",
+    "title": "Above the workshop",
+    "category": "Studio photography",
+    "use": "Light and structure above the workshop.",
+    "originalName": "Lab37_JoshCherner_L1120368.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120368.jpg",
+    "originalBytes": 11042552,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 6784,
+        "height": 4527,
+        "preview": "/previews/lab37/LAB37_23.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120368.jpg",
+        "png": null,
+        "jpgBytes": 11042552,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "brand": "lab37",
+    "title": "A study in steel",
+    "category": "Studio photography",
+    "use": "A close, monochrome view of the machine structure.",
+    "originalName": "Lab37_JoshCherner_L1120436.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120436.jpg",
+    "originalBytes": 8678604,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 6611,
+        "height": 4412,
+        "preview": "/previews/lab37/LAB37_24.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120436.jpg",
+        "png": null,
+        "jpgBytes": 8678604,
+        "pngBytes": 0
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "brand": "lab37",
+    "title": "Along the assembly",
+    "category": "Studio photography",
+    "use": "A view along the assembled kitchen line.",
+    "originalName": "Lab37_JoshCherner_L1120518.jpg",
+    "originalUrl": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120518.jpg",
+    "originalBytes": 15768836,
+    "variants": [
+      {
+        "orientation": "Original",
+        "ratio": "Original",
+        "width": 8368,
+        "height": 5584,
+        "preview": "/previews/lab37/LAB37_25.webp",
+        "jpg": "https://github.com/adamboy2000/film/releases/download/lab37-media-kit-v1/Lab37_JoshCherner_L1120518.jpg",
+        "png": null,
+        "jpgBytes": 15768836,
+        "pngBytes": 0
+      }
+    ]
+  }
+]
