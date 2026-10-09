@@ -33,3 +33,6 @@ Only application source, release metadata, and web previews are committed. Origi
 `scripts/prepare-assets.py` reads the local `Pronto_Designer_Stills_40` export directory and prepares Pronto previews, catalog data, and JPG bundles. `scripts/prepare-lab37.py` reads `.work/lab37/originals` and prepares Lab37 previews, metadata, and an original-file archive. Both require Python with Pillow.
 
 Run `scripts/prepare-asset-map.py` after preparing the collections to refresh the clipboard endpoint’s allowlist. Vercel builds use the prepared files and do not need the source film or original media folders.
+
+
+The workspace menu shows the current SSO user name when supplied by the hosting platform. Anonymous visitors have no profile row; the public Vercel host has no company SSO. Identity is not saved in browser storage. GitHub pushes to `main` deploy automatically through the connected Vercel project.

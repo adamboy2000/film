@@ -7,6 +7,7 @@ import {ArrowLeft,ArrowUp,ArrowUpRight,Check,ChevronRight,Copy,Download,External
 import {brands,catalog,copyAsset,formats,variant} from './library'
 import type {BrandId,Format,Shot} from './library'
 import {copyOriginalImage} from './clipboard'
+import {initials,useIdentity} from './identity'
 import collection from './collection.json'
 import labCollection from './lab37-collection.json'
 
@@ -25,6 +26,7 @@ function Dialog({title,onClose,children}:{title:string;onClose:()=>void;children
 }
 
 export default function App(){
+ const user=useIdentity()
  const initial=new URLSearchParams(location.search)
  const initialShot=catalog.find(s=>s.id===Number(initial.get('shot')))
  const [view,setView]=useState<'library'|'selects'>(initial.get('view')==='selects'?'selects':'library')
@@ -74,7 +76,7 @@ export default function App(){
  return <div className="app-shell">
   <header className="topbar">
    <div className="topbar-left"><button className="brand" aria-label="Film home" onClick={()=>goBrand(null)}>FILM<span className="brand-dot"/></button><nav aria-label="Main navigation"><button className={view==='library'?'active':''} onClick={()=>goBrand(null)}>Library</button><button className={view==='selects'?'active':''} onClick={goSelects}>My selects</button></nav></div>
-   <div className="topbar-right">{canDownload&&<Button color="primary" size="lg" className="download-collection" aria-label="Download collection" onClick={()=>setModal('download')}><Download size={16}/><span>Download collection</span></Button>}<div className="app-menu-wrap" ref={menuRef}><button className={`icon-button ${menu?'is-active':''}`} aria-label="Workspace menu" aria-expanded={menu} aria-controls="workspace-menu" onClick={()=>setMenu(v=>!v)}><Menu size={20}/></button>{menu&&<div className="app-menu" id="workspace-menu"><button onClick={()=>goBrand(null)}><Grid size={18}/>Library</button><button onClick={goSelects}><SaveIcon saved={false}/>My selects</button><button onClick={()=>{setMenu(false);setModal('about')}}><List size={18}/>About Film</button><a href={collection.github} target="_blank" rel="noreferrer"><ExternalLink size={18}/>View on GitHub</a><div className="menu-appearance"><span>Appearance</span><div><button aria-label="Light theme" aria-pressed={theme==='light'} onClick={()=>setTheme('light')}><Sun size={17}/></button><button aria-label="Dark theme" aria-pressed={theme==='dark'} onClick={()=>setTheme('dark')}><Moon size={17}/></button></div></div><div className="menu-profile"><span className="profile-avatar">AW</span><span>Curated by Adam Whitfield</span></div></div>}</div></div>
+   <div className="topbar-right">{canDownload&&<Button color="primary" size="lg" className="download-collection" aria-label="Download collection" onClick={()=>setModal('download')}><Download size={16}/><span>Download collection</span></Button>}<div className="app-menu-wrap" ref={menuRef}><button className={`icon-button ${menu?'is-active':''}`} aria-label="Workspace menu" aria-expanded={menu} aria-controls="workspace-menu" onClick={()=>setMenu(v=>!v)}><Menu size={20}/></button>{menu&&<div className="app-menu" id="workspace-menu"><button onClick={()=>goBrand(null)}><Grid size={18}/>Library</button><button onClick={goSelects}><SaveIcon saved={false}/>My selects</button><button onClick={()=>{setMenu(false);setModal('about')}}><List size={18}/>About Film</button><a href={collection.github} target="_blank" rel="noreferrer"><ExternalLink size={18}/>View on GitHub</a><div className="menu-appearance"><span>Appearance</span><div><button aria-label="Light theme" aria-pressed={theme==='light'} onClick={()=>setTheme('light')}><Sun size={17}/></button><button aria-label="Dark theme" aria-pressed={theme==='dark'} onClick={()=>setTheme('dark')}><Moon size={17}/></button></div></div>{user&&<div className="menu-profile"><span className="profile-avatar" aria-hidden="true">{initials(user.name)}</span><span>{user.name}</span></div>}</div>}</div></div>
   </header>
   {shot&&currentVariant?<main className="viewer">
    <div className="viewer-topline"><button className="text-button" onClick={closeShot}><ArrowLeft size={16}/>Back to {view==='selects'?'My selects':shotBrand?.name||'collection'}</button><div className="viewer-navigation"><span>{String((catalog.filter(s=>s.brand===shot.brand).findIndex(s=>s.id===shot.id))+1).padStart(2,'0')} / {catalog.filter(s=>s.brand===shot.brand).length}</span><IconButton label="Previous shot" onClick={()=>navigate(-1)}><ArrowLeft size={17}/></IconButton><IconButton label="Next shot" onClick={()=>navigate(1)}><ChevronRight size={19}/></IconButton></div></div>
